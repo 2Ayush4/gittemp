@@ -1,0 +1,5 @@
+lets add some text to see some changes in the git.
+
+We will try to make some branches, merge them, push code, and much more.
+
+Fasten your seatbelts !!
