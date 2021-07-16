@@ -10,6 +10,8 @@ Fasten your seatbelts !!
 
 data to save 
 
+sdn_controller ip : 123.23.23.4
+
 port : 9083
 vlans :
 	red : 
