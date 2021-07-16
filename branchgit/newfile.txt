@@ -14,5 +14,8 @@ vlans :
 	id : 10
 	blue :
 	id : 20
+
+auth_server : 10.30.3.3
+
 ports :
 1: [20]
