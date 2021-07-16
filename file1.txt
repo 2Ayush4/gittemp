@@ -1,9 +1,0 @@
-Git tutorials
-
-lets add some text to see some changes in the git.
-
-Learning for David
-
-We will try to make some branches, merge them, push code, and much more.
-
-Fasten your seatbelts !!
